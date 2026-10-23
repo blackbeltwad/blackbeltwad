@@ -1,2 +1,2 @@
 what's up\
-[wadwarp.ca](https://wadwarp.ca/)
+<a href="https://wadwarp.ca/" target="_blank">wadwarp.ca</a>
