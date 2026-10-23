@@ -1,3 +1,2 @@
-what's up
-\n
+what's up\
 [wadwarp.ca](wadwarp.ca)
